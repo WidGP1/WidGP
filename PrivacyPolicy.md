@@ -1,6 +1,6 @@
 # Privacy Policy for WidGP iOS Application
 
-**Last Updated: November 18th 2023**
+**Last Updated: November 24th 2023**
 
 Thank you for choosing WidGP, created by WidGP App Developer. This Privacy Policy outlines how WidGP collects, uses, and protects your information. Please read this Privacy Policy carefully before using the application.
 
@@ -8,7 +8,7 @@ Thank you for choosing WidGP, created by WidGP App Developer. This Privacy Polic
 WidGP does not collect any personal information from its users. We do not access, store, or process any data that could be used to personally identify you.
 
 ## 2. In-App Purchase - PaddockPlus:
-WidGP offers an in-app purchase named PaddockPlus, which operates on a subscription model. The purchase is managed by the Apple App Store, and we do not have access to your payment information. Apple's privacy policies and terms of service apply to any transactions made through the App Store.
+WidGP offers an in-app purchase named PaddockPlus, which operates on a season basis purchase model. The purchase is managed by the Apple App Store, and we do not have access to your payment information. Apple's privacy policies and terms of service apply to any transactions made through the App Store.
 
 ## 3. Usage Analytics:
 WidGP does not use any analytics tools to track your usage patterns or gather any information about how you interact with the application.
