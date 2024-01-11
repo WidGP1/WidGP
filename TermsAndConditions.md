@@ -1,6 +1,6 @@
 # Terms and Conditions for MotoWidget iOS Application
 
-**Last Updated: November 24th 2023**
+**Last Updated: January 11th 2024**
 
 Welcome to MotoWidget, created by MotoWidget App Developer. By using this application, you agree to comply with and be bound by the following Terms and Conditions. Please read these Terms and Conditions carefully before using MotoWidget.
 
