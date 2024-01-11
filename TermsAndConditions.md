@@ -26,6 +26,6 @@ We reserve the right to update or modify these Terms and Conditions at any time.
 We reserve the right to terminate or suspend your access to MotoWidget at our discretion, without notice, for any reason, including violation of these Terms and Conditions.
 
 ## 8. Contact Us:
-If you have any questions or concerns about these Terms and Conditions, please contact us at MotoWidget@mail.com.
+If you have any questions or concerns about these Terms and Conditions, please contact us at widgp@mail.com.
 
 By using MotoWidget, you agree to abide by these Terms and Conditions. If you do not agree with these terms, please refrain from using the application.
