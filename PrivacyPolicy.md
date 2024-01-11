@@ -26,7 +26,7 @@ MotoWidget is not directed towards children under the age of 13. We do not knowi
 We reserve the right to update this Privacy Policy as needed. Any changes will be effective immediately upon posting the updated Privacy Policy in the app. Your continued use of MotoWidget after any changes constitute your acceptance of the updated Privacy Policy.
 
 ## 8. Contact Us:
-If you have any questions or concerns about this Privacy Policy, please contact us at MotoWidget@mail.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at widgp@mail.com.
 
 By using MotoWidget, you agree to the terms outlined in this Privacy Policy. If you do not agree with these terms, please refrain from using the application.
 
