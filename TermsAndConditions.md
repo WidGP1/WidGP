@@ -1,6 +1,6 @@
 # Terms and Conditions for MotoWidget iOS Application
 
-**Last Updated: January 11th 2024**
+**Last Updated: June 15th 2024**
 
 Welcome to MotoWidget, created by MotoWidget App Developer. By using this application, you agree to comply with and be bound by the following Terms and Conditions. Please read these Terms and Conditions carefully before using MotoWidget.
 
@@ -10,8 +10,8 @@ By accessing or using MotoWidget, you agree to these Terms and Conditions. If yo
 ## 2. Use of the Application:
 MotoWidget is provided for personal, non-commercial use. You may not use the application for any illegal or unauthorised purpose. You agree to comply with all applicable laws and regulations.
 
-## 3. In-App Purchase - PaddockPlus:
-MotoWidget offers an in-app purchase named PaddockPlus, which operates on a season basis purchase model. The purchase is managed by the Apple App Store, and you agree to abide by Apple's terms of service regarding in-app purchases.
+## 3. In-App Purchase - Development Support:
+MotoWidget offers an in-app purchase named Development Support, which is of Consumable type. The purchase is managed by the Apple App Store, and you agree to abide by Apple's terms of service regarding in-app purchases.
 
 ## 4. Intellectual Property:
 The content, features, and functionality of MotoWidget are owned by MotoWidget App Developer and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
